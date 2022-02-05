@@ -1,3 +1,6 @@
 *terraform.tfstate*
 .terraform*
 dtc-de/.terraform/
+*.env
+logs
+plugins
