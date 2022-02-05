@@ -59,4 +59,4 @@ In this homework, we need to answer some questions. To solve the questions, basi
 
     After we have the `taxi_zone` table and the `yellow_taxi_trips` table, we can find the answer of Homework question using PgAdmin query tool. The SQL query to find the answer will be inserted into this README after passing the deadline.
 
-
+    **Update**: My HW solution can be seen [here](https://github.com/irfansofyana/data-eng-zoomcamp-playground/tree/main/week_1/homework/my_solution.txt)
