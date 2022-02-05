@@ -1,6 +1,6 @@
-# README
+# Week 1 - Docker & GCP Setup
 
-In the first week, we learn about terraform and docker (especially docker for postgres and python).
+In the first week, we learn how to setup environment in GCP using terraform and docker (especially docker for postgres and python).
 
 ## Notes
 
