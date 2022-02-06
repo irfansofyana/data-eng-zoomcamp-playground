@@ -4,3 +4,4 @@ dtc-de/.terraform/
 *.env
 logs
 plugins
+__pycache__

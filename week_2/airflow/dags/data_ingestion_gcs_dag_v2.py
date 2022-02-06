@@ -98,7 +98,7 @@ with DAG(
             "tableReference": {
                 "projectId": PROJECT_ID,
                 "datasetId": BIGQUERY_DATASET,
-                "tableId": "yellow_tripdata",
+                "tableId": "yellow_tripdata_table",
             },
             "externalDataConfiguration": {
                 "sourceFormat": "PARQUET",
